@@ -1,7 +1,3 @@
-Sure! Here's the revised GitHub README page including the additional projects and logos for R and FORTRAN:
-
----
-
 <h1 align="center">Hi 👋, I'm Vishal Nair</h1>
 <h3 align="center">My interests lie in Data Science, Machine Learning, Artificial Intelligence, and Computational Physics and Mathematics.</h3>
 
