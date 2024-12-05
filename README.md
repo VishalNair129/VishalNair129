@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Gaussian_Mixture-R-blue" alt="Gaussian Mixture" height="35" />
   </a>
   <a href="https://github.com/VishalNair129/A-Star-Algorithm-for-Routing-Problem">
-    <img src="https://img.shields.io/badge/A_Star_Routing-C-blue" alt="A Star Routing" height="35" />
+    <img src="https://img.shields.io/badge/A_Star_Algorithm-C-blue" alt="A Star Routing" height="35" />
   </a>
    <a href="https://github.com/VishalNair129/Inverse-Problems-in-Imaging-and-Signal-Processing">
     <img src="https://img.shields.io/badge/Inverse_Problems-MATLAB-blue" alt="Inverse Problems" height="35" />
