@@ -26,9 +26,7 @@
 ### Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/VishalNair129/Inverse-Problems-in-Imaging-and-Signal-Processing">
-    <img src="https://img.shields.io/badge/Inverse_Problems-MATLAB-blue" alt="Inverse Problems" height="35" />
-  </a>
+
   <a href="https://github.com/VishalNair129/Classification-of-Covid-19-Vaccine-Opinions">
     <img src="https://img.shields.io/badge/Classification_Covid19-Jupyter_Notebook-blue" alt="Classification Covid19" height="35" />
   </a>
@@ -40,6 +38,9 @@
   </a>
   <a href="https://github.com/VishalNair129/A-Star-Algorithm-for-Routing-Problem">
     <img src="https://img.shields.io/badge/A_Star_Routing-C-blue" alt="A Star Routing" height="35" />
+  </a>
+   <a href="https://github.com/VishalNair129/Inverse-Problems-in-Imaging-and-Signal-Processing">
+    <img src="https://img.shields.io/badge/Inverse_Problems-MATLAB-blue" alt="Inverse Problems" height="35" />
   </a>
   <a href="https://github.com/VishalNair129/Optimisation">
     <img src="https://img.shields.io/badge/Optimisation-MATLAB-blue" alt="Optimisation" height="35" />
