@@ -1,20 +1,6 @@
 <h2 align="center">Hi 👋, I'm Vishal Nair</h2>
 <h3 align="center">My interests lie in Data Science, Machine Learning, Artificial Intelligence, and Computational Physics and Mathematics.</h3>
 
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/vishal-nair-a1a6781ba" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  height="20"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009706500227" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  height="20"/>
-  </a>
-  <a href="https://www.instagram.com/vishal_nair_29/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/>
-  </a>
-</p>
 
 ---
 
@@ -39,12 +25,26 @@
 ---
 ### Featured Repositories
 
-[![Inverse-Problems-in-Imaging-and-Signal-Processing](https://img.shields.io/badge/Inverse_Problems-MATLAB-blue)](https://github.com/VishalNair129/Inverse-Problems-in-Imaging-and-Signal-Processing)
-[![Classification-of-Covid-19-Vaccine-Opinions](https://img.shields.io/badge/Classification_Covid19-Jupyter_Notebook-blue)](https://github.com/VishalNair129/Classification-of-Covid-19-Vaccine-Opinions)
-[![ML-Projects](https://img.shields.io/badge/ML_Projects-Jupyter_Notebook-blue)](https://github.com/VishalNair129/ML-Projects)
-[![Gaussian-Mixture-Models](https://img.shields.io/badge/Gaussian_Mixture-R-blue)](https://github.com/VishalNair129/Gaussian-Mixture-Models)
-[![A-Star-Algorithm-for-Routing-Problem](https://img.shields.io/badge/A_Star_Routing-C-blue)](https://github.com/VishalNair129/A-Star-Algorithm-for-Routing-Problem)
-[![Optimisation](https://img.shields.io/badge/Optimisation-MATLAB-blue)](https://github.com/VishalNair129/Optimisation)
+<p align="center">
+  <a href="https://github.com/VishalNair129/Inverse-Problems-in-Imaging-and-Signal-Processing">
+    <img src="https://img.shields.io/badge/Inverse_Problems-MATLAB-blue" alt="Inverse Problems" height="35" />
+  </a>
+  <a href="https://github.com/VishalNair129/Classification-of-Covid-19-Vaccine-Opinions">
+    <img src="https://img.shields.io/badge/Classification_Covid19-Jupyter_Notebook-blue" alt="Classification Covid19" height="35" />
+  </a>
+  <a href="https://github.com/VishalNair129/ML-Projects">
+    <img src="https://img.shields.io/badge/ML_Projects-Jupyter_Notebook-blue" alt="ML Projects" height="35" />
+  </a>
+  <a href="https://github.com/VishalNair129/Gaussian-Mixture-Models">
+    <img src="https://img.shields.io/badge/Gaussian_Mixture-R-blue" alt="Gaussian Mixture" height="35" />
+  </a>
+  <a href="https://github.com/VishalNair129/A-Star-Algorithm-for-Routing-Problem">
+    <img src="https://img.shields.io/badge/A_Star_Routing-C-blue" alt="A Star Routing" height="35" />
+  </a>
+  <a href="https://github.com/VishalNair129/Optimisation">
+    <img src="https://img.shields.io/badge/Optimisation-MATLAB-blue" alt="Optimisation" height="35" />
+  </a>
+</p>
 
 ---
 <h3 align="center">Languages and Tools:</h3>
