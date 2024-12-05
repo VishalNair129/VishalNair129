@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Nair</h1>
+<h2 align="center">Hi 👋, I'm Vishal Nair</h2>
 <h3 align="center">My interests lie in Data Science, Machine Learning, Artificial Intelligence, and Computational Physics and Mathematics.</h3>
 
 ---
@@ -6,13 +6,13 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/vishal-nair-a1a6781ba" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  height="20"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100009706500227" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  height="20"/>
   </a>
   <a href="https://www.instagram.com/vishal_nair_29/" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20"/>
   </a>
 </p>
 
@@ -20,20 +20,20 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/C-%232c3e50.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Matlab-%230078D4.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab"/>
-  <img src="https://img.shields.io/badge/SQL-%230074D4.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Fortran-%23424242.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran"/>
-  <img src="https://img.shields.io/badge/OPL-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="OPL"/>
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="20"/>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" height="20"/>
+  <img src="https://img.shields.io/badge/C-%232c3e50.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="20"/>
+  <img src="https://img.shields.io/badge/Matlab-%230078D4.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" height="20"/>
+  <img src="https://img.shields.io/badge/SQL-%230074D4.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="20"/>
+  <img src="https://img.shields.io/badge/Fortran-%23424242.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" height="20"/>
+  <img src="https://img.shields.io/badge/OPL-%23007ACC.svg?style=for-the-badge&logo=ibm&logoColor=white" alt="OPL" height="20"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" height="20"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="20"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="20"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="20"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="20"/>
 </p>
 
 ---
