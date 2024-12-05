@@ -37,7 +37,16 @@
 </p>
 
 ---
+### Featured Repositories
 
+[![Inverse-Problems-in-Imaging-and-Signal-Processing](https://img.shields.io/badge/Inverse_Problems-MATLAB-blue)](https://github.com/VishalNair129/Inverse-Problems-in-Imaging-and-Signal-Processing)
+[![Classification-of-Covid-19-Vaccine-Opinions](https://img.shields.io/badge/Classification_Covid19-Jupyter_Notebook-blue)](https://github.com/VishalNair129/Classification-of-Covid-19-Vaccine-Opinions)
+[![ML-Projects](https://img.shields.io/badge/ML_Projects-Jupyter_Notebook-blue)](https://github.com/VishalNair129/ML-Projects)
+[![Gaussian-Mixture-Models](https://img.shields.io/badge/Gaussian_Mixture-R-blue)](https://github.com/VishalNair129/Gaussian-Mixture-Models)
+[![A-Star-Algorithm-for-Routing-Problem](https://img.shields.io/badge/A_Star_Routing-C-blue)](https://github.com/VishalNair129/A-Star-Algorithm-for-Routing-Problem)
+[![Optimisation](https://img.shields.io/badge/Optimisation-MATLAB-blue)](https://github.com/VishalNair129/Optimisation)
+
+---
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
