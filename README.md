@@ -45,7 +45,8 @@
   <a href="https://github.com/VishalNair129/Optimisation">
     <img src="https://img.shields.io/badge/Optimisation-MATLAB-blue" alt="Optimisation" height="35" />
   </a>
-   <a href="https://github.com/VishalNair129/Optimisation">
+   <a href="https://github.com/VishalNair129/Business-Data-Management-Capstone-Project
+">
     <img src="https://img.shields.io/badge/Business_Data_Management-Jupyter_Notebook-blue" alt="Optimisation" height="35" />
   </a>
 </p>
