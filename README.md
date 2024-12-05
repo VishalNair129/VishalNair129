@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Vishal Nair</h2>
-<h3 align="center">My interests lie in Data Science, Machine Learning, Artificial Intelligence, and Computational Physics and Mathematics.</h3>
+<h3 align="center">My interests lie in Optimisation,Data Science, Machine Learning, Artificial Intelligence, and Computational Physics and Mathematics.</h3>
 
 
 ---
