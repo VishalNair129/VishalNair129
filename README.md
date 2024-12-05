@@ -15,56 +15,6 @@
   <li><b>Tools</b>: Overleaf, Git, Excel, MySQL, MS Project, Numpy, pandas, scikit-learn, Datashield (R), CPLEX</li>
 </ul>
 
-<h2 align="left">Projects</h2>
-<ul>
-  <li><b>Predicting Car and Gold Prices</b>
-    <ul>
-      <li>Developed machine learning models to predict car prices and gold prices using Python and R.</li>
-      <li>Applied various regression techniques and fine-tuned models for better accuracy.</li>
-    </ul>
-  </li>
-  <li><b>Heart Disease Prediction</b>
-    <ul>
-      <li>Designed a predictive model for heart disease using machine learning algorithms.</li>
-      <li>Utilized Python libraries like pandas, scikit-learn, and matplotlib for data processing and visualization.</li>
-    </ul>
-  </li>
-  <li><b>Customer Segmentation</b>
-    <ul>
-      <li>Conducted customer segmentation analysis for a retail company.</li>
-      <li>Implemented clustering algorithms to identify distinct customer groups and provided actionable insights.</li>
-    </ul>
-  </li>
-  <li><b>Optimizing Production and Inventory Planning</b>
-    <ul>
-      <li>Worked on a project to optimize production and inventory planning using numerical optimization methods.</li>
-      <li>Implemented solutions in Matlab and Python to improve efficiency and reduce costs.</li>
-    </ul>
-  </li>
-  <li><b>Classification of COVID-19 Vaccine Opinions</b>
-    <ul>
-      <li>Published research on classifying COVID-19 vaccine opinions using neural networks.</li>
-      <li>Developed and trained models using Python and deep learning frameworks.</li>
-    </ul>
-  </li>
-  <li><b>Inverse Problems in Imaging and Signal Processing</b>
-    <ul>
-      <li>Explored and solved inverse problems in imaging and signal processing as part of research projects.</li>
-      <li>Utilized advanced mathematical techniques and programming skills to achieve results.</li>
-    </ul>
-  </li>
-  <li><b>Underreported Incidence of Genital Warts in Catalunya</b>
-    <ul>
-      <li>Analyzed underreported incidence of genital warts in Catalunya using mixture models to estimate its evolution from 2009-2016 in R.</li>
-    </ul>
-  </li>
-  <li><b>Project Scheduling Problems with Calendars (PSPwC)</b>
-    <ul>
-      <li>Addressed Project Scheduling Problems with Calendars (PSPwC) by modeling real-life scheduling issues and applying algorithms.</li>
-      <li>Implemented Dijkstra’s and A* algorithms in C to find the optimal shortest path between two points in the Spain Open Street Map.</li>
-    </ul>
-  </li>
-</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
