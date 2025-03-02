@@ -30,6 +30,14 @@
   <a href="https://github.com/VishalNair129/Classification-of-Covid-19-Vaccine-Opinions">
     <img src="https://img.shields.io/badge/Classification_Covid19-Jupyter_Notebook-blue" alt="Classification Covid19" height="35" />
   </a>
+  <a href="https://github.com/VishalNair129/Resampling-Techniques">
+    <img src="https://img.shields.io/badge/Resampling_Techniques-R-blue" alt="Resampling Techniques" height="35" />
+</a>
+
+<a href="https://github.com/VishalNair129/Bayesian-Network">
+    <img src="https://img.shields.io/badge/Bayesian_Network-R-blue" alt="Bayesian Network" height="35" />
+</a>
+
   <a href="https://github.com/VishalNair129/ML-Projects">
     <img src="https://img.shields.io/badge/ML_Projects-Jupyter_Notebook-blue" alt="ML Projects" height="35" />
   </a>
