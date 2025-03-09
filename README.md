@@ -33,6 +33,9 @@
   <a href="https://github.com/VishalNair129/Resampling-Techniques">
     <img src="https://img.shields.io/badge/Resampling_Techniques-R-blue" alt="Resampling Techniques" height="35" />
 </a>
+<a href="https://github.com/VishalNair129/Markov-Chain-Text-Generator">
+    <img src="https://img.shields.io/badge/Markov_Chain_Text_Generator-Jupyter_Notebook-blue" alt="Markov-Chain-Text-Generators" height="35" />
+</a>
 
 <a href="https://github.com/VishalNair129/Bayesian-Network">
     <img src="https://img.shields.io/badge/Bayesian_Network-R-blue" alt="Bayesian Network" height="35" />
